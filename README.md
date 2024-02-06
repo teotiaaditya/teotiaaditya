@@ -27,7 +27,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/teotiaaditya">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=teotiaaditya&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teotiaaditya&layout=compact&exclude_lang=java+r&theme=vue-dark" />
@@ -35,7 +35,29 @@
 </a>
 </p>
 
-<div align="center">
+<div align="center"> -->
+
+
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <!-- Replace with your GitHub username -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teotiaaditya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teotiaaditya&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <!-- Replace with your GitHub username -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=teotiaaditya&hide_border=true&theme=dark" />
+</details>
+
+
+
 
 ### Show some ❤️ by starring some of the repositories!
 
