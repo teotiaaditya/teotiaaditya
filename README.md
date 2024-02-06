@@ -1,10 +1,13 @@
 <a href=""><img src="./assets/adityabanner.gif" width="100%" height="320" alt="Aditya Profile GIF"></a>
 
-[<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/teotiaaditya)
+<!-- [<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/teotiaaditya)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditya-teotia-9401a7241/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/teotiaaditya)
 [<img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/teotiaaditya)  
-![counter](https://komarev.com/ghpvc/?username=teotiaaditya&style=flat-square)
+![counter](https://komarev.com/ghpvc/?username=teotiaaditya&style=flat-square) -->
+
+
+
 
 ## Hello World! 👋
 
@@ -27,18 +30,6 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<!-- <p align="center">
-<a href="https://github.com/teotiaaditya">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=teotiaaditya&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=teotiaaditya&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-  <img height="180em" src="github-readme-streak-stats.herokuapp.svg"/>
-</a>
-</p>
-
-<div align="center"> -->
-
-
-
 <details>
   <summary><b>⚡ Github Stats</b></summary>
 
@@ -56,7 +47,15 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=teotiaaditya&hide_border=true&theme=vue-dark" />
 </details>
 
-
+## 🙋‍♂️ Let's Connect
+<div align="center">
+	<a href="https://teotiaaditya.github.io/Portfolio_Aditya/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" title="WebSite" alt="WebSite"/></a>
+	<a href="https://github.com/teotiaaditya" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title="Github Profile" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/aditya-teotia-9401a7241/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="Linkedin Profile" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/aditya.teotia.73?mibextid=ZbWKwL" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" title="Facebook Profile" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/adityateotia_?igsh=eHByMm9uemx1Z2Zw" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" title="Instagram Profile" alt="Instagram"/></a>
+	<a href="mailto:teotiaaditya.170302@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
+</div>
 
 
 ### Show some ❤️ by starring some of the repositories!
