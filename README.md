@@ -44,7 +44,7 @@
 
   <br />
   <!-- Replace with your GitHub username -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teotiaaditya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teotiaaditya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vue-dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teotiaaditya&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
 </details>
 
@@ -53,7 +53,7 @@
 
   <br />
   <!-- Replace with your GitHub username -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=teotiaaditya&hide_border=true&theme=dark" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=teotiaaditya&hide_border=true&theme=vue-dark" />
 </details>
 
 
