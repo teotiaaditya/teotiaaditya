@@ -1,4 +1,4 @@
-<a href="">![Aditya Profile GIF](./assets/adityabanner.gif)</a>
+<a href=""><img src="./assets/adityabanner.gif" width="100%" alt="Aditya Profile GIF"></a>
 
 [<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/teotiaaditya)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditya-teotia-9401a7241/)
