@@ -1,15 +1,6 @@
 <a href=""><img src="./assets/adityabanner.gif" width="100%" height="320" alt="Aditya Profile GIF"></a>
 
-<!-- [<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/teotiaaditya)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditya-teotia-9401a7241/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/teotiaaditya)
-[<img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/teotiaaditya)  
-![counter](https://komarev.com/ghpvc/?username=teotiaaditya&style=flat-square) -->
 
-
-
-
-## Hello World! 👋
 
 ### Glad to see you here! 🤩 &nbsp;
 
@@ -22,7 +13,7 @@
 - 🎉 Current CGPA: 8.15 (Up to V Sem.)
 - 💻 Skills: C++, Java, Python, React, AWS, Git, and more
 - 🏆 Achievements: Google ML Campus Fest Top 8, Smart India Hackathon Top 100, AWS Academy Graduate
-- 📄 Portfolio: [LinkedIn Portfolio](https://www.linkedin.com/in/aditya-teotia-9401a7241/)
+- 📄 Portfolio: [Portfolio](https://teotiaaditya.github.io/Portfolio_Aditya/)
 
 ### Languages and Tools:
 
