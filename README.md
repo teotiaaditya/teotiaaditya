@@ -6,6 +6,9 @@
 
 > I am a passionate learner pursuing a BTech in Computer Science at Bennett University 🎓. I'm actively involved in projects related to web development, machine learning, and more. I love exploring new technologies and using them to solve real-world problems ✨. Feel free to explore my GitHub repositories and connect with me on LinkedIn or Twitter.
 
+![Profile banner](https://i.imgur.com/VNP2tTx.gif)
+
+
 ### Talking about Personal Stuffs:
 
 - 👨‍💻 GitHub: [teotiaaditya](https://github.com/teotiaaditya)
